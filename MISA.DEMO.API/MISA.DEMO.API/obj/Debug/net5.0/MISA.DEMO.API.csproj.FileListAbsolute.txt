@@ -27,3 +27,32 @@ C:\Users\Administrator\Desktop\C# Core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net
 C:\Users\Administrator\Desktop\C# Core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\ref\MISA.DEMO.API.dll
 C:\Users\Administrator\Desktop\C# Core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.pdb
 C:\Users\Administrator\Desktop\C# Core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.genruntimeconfig.cache
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\ref\MISA.DEMO.API.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.pdb
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\appsettings.json
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\MISA.DEMO.API.exe
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\MISA.DEMO.API.deps.json
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\MISA.DEMO.API.runtimeconfig.json
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\MISA.DEMO.API.runtimeconfig.dev.json
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\MISA.DEMO.API.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\ref\MISA.DEMO.API.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\MISA.DEMO.API.pdb
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.csprojAssemblyReference.cache
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.AssemblyInfoInputs.cache
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.AssemblyInfo.cs
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.csproj.CoreCompileInputs.cache
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\staticwebassets\MISA.DEMO.API.StaticWebAssets.Manifest.cache
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\staticwebassets\MISA.DEMO.API.StaticWebAssets.xml
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\scopedcss\bundle\MISA.DEMO.API.styles.css
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.RazorTargetAssemblyInfo.cache
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.csproj.CopyComplete
+C:\Users\pqhuy\Desktop\Code\cshap-core\MISA.DEMO.API\MISA.DEMO.API\obj\Debug\net5.0\MISA.DEMO.API.genruntimeconfig.cache

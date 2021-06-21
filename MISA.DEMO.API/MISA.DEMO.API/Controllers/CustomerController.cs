@@ -2,7 +2,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using System.Threading.Tasks; 
+using
+using System.Data;
+using MySql.Data.MySqlClient;
+using Dapper;
 
 namespace MISA.DEMO.API.Controllers
 {
@@ -64,9 +68,14 @@ namespace MISA.DEMO.API.Controllers
         /// <returns></returns>
         [HttpGet]
         [Route("Customer")]
-        public List<Customer> GetCustomers()
+        public JsonResult GetCustomers()
         {
-            return listCustomer;
+            var connectionString = "User Id=dev;Host=35.194.135.168;Port= 3306; Database=MISACukCuk Password=12345678@Abc; Charater Set=utf8";
+            IDbConnection dbConnection = new MySqlConnection(connectionString);
+            var customer = dbConnection.Query<Customer>("Proc_GetCustomers", commandType: CommandType.StoredProcedure);
+            /* get all data*/
+            return Ok(customer);
+            /*return listCustomer;*/
         }
 
         /// <summary>
